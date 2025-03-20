@@ -1,1 +1,1 @@
-# COSVC-Az-common
+# COSVC-Azure-common
