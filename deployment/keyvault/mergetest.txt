@@ -5,3 +5,4 @@ release 브랜치에 바로 commit push
 self review 테스트 1
 self review 테스트 2
 self review 테스트 3
+self review 테스트 4
